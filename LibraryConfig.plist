@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>App_Title</key>
+	<string>PDFMagazineTemplate</string>
+	<key>publications</key>
+	<array>
+		<dict>
+			<key>productId</key>
+			<string></string>
+			<key>publish_date</key>
+			<date>2016-09-04T16:34:39Z</date>
+			<key>title</key>
+			<string>title here</string>
+			<key>description</key>
+			<string>description text here</string>
+			<key>small_cover</key>
+			<string>https://dl.dropboxusercontent.com/u/35136748/PDFMagazine/cover_spunky_issue2_small.png</string>
+			<key>large_cover</key>
+			<string>https://dl.dropboxusercontent.com/u/35136748/PDFMagazine/cover_spunky_issue2_large.png</string>
+		</dict>
+		<dict>
+			<key>productId</key>
+			<string></string>
+			<key>publish_date</key>
+			<date>2016-09-04T15:34:39Z</date>
+			<key>title</key>
+			<string>title here</string>
+			<key>description</key>
+			<string>description text here</string>
+			<key>small_cover</key>
+			<string>https://dl.dropboxusercontent.com/u/35136748/PDFMagazine/cover_salt_winter_2014_small.png</string>
+			<key>large_cover</key>
+			<string>https://dl.dropboxusercontent.com/u/35136748/PDFMagazine/cover_salt_winter_2014_large.png</string>
+		</dict>
+	</array>
+</dict>
+</plist>
