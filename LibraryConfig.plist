@@ -12,13 +12,13 @@
 			<key>date</key>
 			<date>2016-09-04T16:34:39Z</date>
 			<key>title</key>
-			<string>title here</string>
+			<string>Salt</string>
 			<key>description</key>
 			<string>description text here</string>
 			<key>coverURL</key>
-			<string></string>
+			<string>https://raw.githubusercontent.com/t0rn/PublisherDemoFiles/master/images/surf_cover2%402x.png</string>
 			<key>fileURL</key>
-			<string></string>
+			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/PDF/Freesurf_Magazine.pdf?raw=true</string>
 		</dict>
 		<dict>
 			<key>productId</key>
@@ -26,13 +26,13 @@
 			<key>date</key>
 			<date>2016-09-04T15:34:39Z</date>
 			<key>title</key>
-			<string>title here</string>
+			<string>Spunky</string>
 			<key>description</key>
 			<string>description text here</string>
 			<key>coverURL</key>
-			<string>https://dl.dropboxusercontent.com/u/35136748/PDFMagazine/cover_salt_winter_2014_large.png</string>
+			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/cover_spunky_issue2_large.png?raw=true</string>
 			<key>fileURL</key>
-			<string></string>
+			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/PDF/spunky_issue2.pdf?raw=true</string>
 		</dict>
 	</array>
 </dict>
