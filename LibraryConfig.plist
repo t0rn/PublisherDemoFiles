@@ -16,7 +16,7 @@
 			<key>description</key>
 			<string>description text here\n new line\n new line\n bla bla bla bla </string>
 			<key>coverURL</key>
-			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/Retrospective_cover?raw=true</string>
+			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/Retrospective_cover.png?raw=true</string>
 			<key>fileURL</key>
 			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/PDF/Retrospective.pdf?raw=true</string>
 		</dict>
