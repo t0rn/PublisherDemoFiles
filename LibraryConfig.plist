@@ -14,7 +14,7 @@
 			<key>title</key>
 			<string>Retrospective</string>
 			<key>description</key>
-			<string>description text here\r new line\r new line\r bla bla bla bla </string>
+			<string>description text here\n new line\n new line\n bla bla bla bla </string>
 			<key>coverURL</key>
 			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/Retrospective_cover.png?raw=true</string>
 			<key>fileURL</key>
@@ -28,7 +28,7 @@
 			<key>title</key>
 			<string>Fashion faces</string>
 			<key>description</key>
-			<string>description text here\r new line\r new line\r bla bla bla bla </string>
+			<string>description text here\n new line\n new line\n bla bla bla bla </string>
 			<key>coverURL</key>
 			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/ff_cover3@2x.png?raw=true</string>
 			<key>fileURL</key>
