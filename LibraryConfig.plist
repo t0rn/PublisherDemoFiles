@@ -8,9 +8,37 @@
 	<array>
 		<dict>
 			<key>productId</key>
+			<string></string>
+			<key>date</key>
+			<date>2017-05-15T12:34:39Z</date>
+			<key>title</key>
+			<string>Retrospective</string>
+			<key>description</key>
+			<string>description text here\n new line\n new line\n bla bla bla bla </string>
+			<key>coverURL</key>
+			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/Retrospective_cover?raw=true</string>
+			<key>fileURL</key>
+			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/PDF/Retrospective.pdf?raw=true</string>
+		</dict>
+		<dict>
+			<key>productId</key>
+			<string></string>
+			<key>date</key>
+			<date>2017-01-28T12:34:39Z</date>
+			<key>title</key>
+			<string>Fashion faces</string>
+			<key>description</key>
+			<string>description text here\n new line\n new line\n bla bla bla bla </string>
+			<key>coverURL</key>
+			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/ff_cover3@2x.png?raw=true</string>
+			<key>fileURL</key>
+			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/PDF/ISSUE_26__FFMAR14.pdf?raw=true</string>
+		</dict>
+		<dict>
+			<key>productId</key>
 			<string>com.alexeyivanov.Publisher.publication1</string>
 			<key>date</key>
-			<date>2016-09-04T16:34:39Z</date>
+			<date>2016-09-16T16:34:39Z</date>
 			<key>title</key>
 			<string>Salt</string>
 			<key>description</key>
@@ -28,7 +56,7 @@
 			<key>title</key>
 			<string>Spunky</string>
 			<key>description</key>
-			<string>description text here</string>
+			<string>description text here\n new line\n new line\n bla bla bla bla </string>
 			<key>coverURL</key>
 			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/cover_spunky_issue2_large.png?raw=true</string>
 			<key>fileURL</key>
