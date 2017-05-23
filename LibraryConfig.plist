@@ -2,6 +2,39 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>slides</key>
+	<array>
+		<dict>
+			<key>ipad_image_portrait</key>
+			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/slide1-ipad-portrait@2x.png?raw=true</string>
+			<key>ipad_image_landscape</key>
+			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/slide1-ipad-landscape@2x.png?raw=true</string>
+			<key>iphone_image</key>
+			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/slide1-iphone@2x.png?raw=true</string>
+			<key>action</key>
+			<dict>
+				<key>actionIdentifier</key>
+				<string>toWebBrowser</string>
+				<key>actionParameter</key>
+				<string>https://itunes.apple.com/ru/app/probmxmag/id709195924?mt=8</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>ipad_image_portrait</key>
+			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/slide2-ipad-portrait@2x.png?raw=true</string>
+			<key>ipad_image_landscape</key>
+			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/slide2-ipad-landscape@2x.png?raw=true</string>
+			<key>iphone_image</key>
+			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/slide2-iphone@2x.png?raw=true</string>
+			<key>action</key>
+			<dict>
+				<key>actionIdentifier</key>
+				<string>toWebBrowser</string>
+				<key>actionParameter</key>
+				<string>http://codecanyon.net/item/newsstandtemplate-v20-with-inapp-purchases/8046271?WT.ac=portfolio&amp;WT.z_author=t0rn</string>
+			</dict>
+		</dict>
+	</array>
 	<key>App_Title</key>
 	<string>PDFMagazineTemplate</string>
 	<key>publications</key>
