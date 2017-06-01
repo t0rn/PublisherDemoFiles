@@ -21,11 +21,11 @@
 		</dict>
 		<dict>
 			<key>ipad_image_portrait</key>
-			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/slide2-ipad-portrait@2x.png?raw=true</string>
+			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/slide3-ipad-portrait@2x.png?raw=true</string>
 			<key>ipad_image_landscape</key>
-			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/slide2-ipad-landscape@2x.png?raw=true</string>
+			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/slide3-ipad-landscape@2x.png?raw=true</string>
 			<key>iphone_image</key>
-			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/slide2-iphone@2x.png?raw=true</string>
+			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/slide3-iphone@2x.png?raw=true</string>
 			<key>action</key>
 			<dict>
 				<key>actionIdentifier</key>
