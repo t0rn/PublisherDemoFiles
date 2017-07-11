@@ -107,7 +107,7 @@
 			<key>coverURL</key>
 			<string>http://light.cdn.easyhoster.ru/app/content/07_mel.png</string>
 			<key>fileURL</key>
-			<string>http://light.cdn.easyhoster.ru/app/content/07_mel.hpub</string>
+			<string>https://raw.githubusercontent.com/t0rn/PublisherDemoFiles/master/hpub/demo_iphone.hpub</string>
 		</dict>
 	</array>
 </dict>
