@@ -95,6 +95,20 @@
 			<key>fileURL</key>
 			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/PDF/spunky_issue2.pdf?raw=true</string>
 		</dict>
+		<dict>
+			<key>productId</key>
+			<string></string>
+			<key>date</key>
+			<date>2016-09-14T15:34:39Z</date>
+			<key>title</key>
+			<string>HPUB</string>
+			<key>description</key>
+			<string>HPUB file by baker framework</string>
+			<key>coverURL</key>
+			<string>http://light.cdn.easyhoster.ru/app/content/07_mel.png</string>
+			<key>fileURL</key>
+			<string>http://light.cdn.easyhoster.ru/app/content/07_mel.hpub</string>
+		</dict>
 	</array>
 </dict>
 </plist>
