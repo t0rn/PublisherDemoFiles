@@ -2,6 +2,100 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>categories</key>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>category1</string>
+			<key>publications</key>
+			<array>
+				<dict>
+					<key>productId</key>
+					<string>com.alexeyivanov.Publisher.publication1</string>
+					<key>date</key>
+					<date>2017-05-15T12:34:39Z</date>
+					<key>title</key>
+					<string>Retrospective</string>
+					<key>description</key>
+					<string>description text here\nnew line\nnew line\n bla bla bla bla </string>
+					<key>coverURL</key>
+					<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/Retrospective_cover.png?raw=true</string>
+					<key>fileURL</key>
+					<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/PDF/Retrospective.pdf?raw=true</string>
+				</dict>
+				<dict>
+					<key>productId</key>
+					<string></string>
+					<key>date</key>
+					<date>2017-01-28T12:34:39Z</date>
+					<key>title</key>
+					<string>Fashion faces</string>
+					<key>description</key>
+					<string>description text here\nnew line\nnew line\nbla bla bla bla </string>
+					<key>coverURL</key>
+					<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/ff_cover3@2x.png?raw=true</string>
+					<key>fileURL</key>
+					<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/PDF/ISSUE_26__FFMAR14.pdf?raw=true</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>category2</string>
+			<key>publications</key>
+			<array>
+				<dict>
+					<key>productId</key>
+					<string></string>
+					<key>date</key>
+					<date>2016-09-16T16:34:39Z</date>
+					<key>title</key>
+					<string>Salt</string>
+					<key>description</key>
+					<string>description text here</string>
+					<key>coverURL</key>
+					<string>https://raw.githubusercontent.com/t0rn/PublisherDemoFiles/master/images/surf_cover2%402x.png</string>
+					<key>fileURL</key>
+					<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/PDF/Freesurf_Magazine.pdf?raw=true</string>
+				</dict>
+				<dict>
+					<key>productId</key>
+					<string></string>
+					<key>date</key>
+					<date>2016-09-04T15:34:39Z</date>
+					<key>title</key>
+					<string>Spunky</string>
+					<key>description</key>
+					<string>description text here\nnew line\nnew line\nbla bla bla bla </string>
+					<key>coverURL</key>
+					<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/cover_spunky_issue2_large.png?raw=true</string>
+					<key>fileURL</key>
+					<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/PDF/spunky_issue2.pdf?raw=true</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>category3</string>
+			<key>publications</key>
+			<array>
+				<dict>
+					<key>productId</key>
+					<string></string>
+					<key>date</key>
+					<date>2016-09-04T15:34:39Z</date>
+					<key>title</key>
+					<string>Spunky</string>
+					<key>description</key>
+					<string>description text here\nnew line\nnew line\nbla bla bla bla </string>
+					<key>coverURL</key>
+					<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/cover_spunky_issue2_large.png?raw=true</string>
+					<key>fileURL</key>
+					<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/PDF/spunky_issue2.pdf?raw=true</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
 	<key>slides</key>
 	<array>
 		<dict>
@@ -37,64 +131,5 @@
 	</array>
 	<key>App_Title</key>
 	<string>PDFMagazineTemplate</string>
-	<key>publications</key>
-	<array>
-		<dict>
-			<key>productId</key>
-			<string>com.alexeyivanov.Publisher.publication1</string>
-			<key>date</key>
-			<date>2017-05-15T12:34:39Z</date>
-			<key>title</key>
-			<string>Retrospective</string>
-			<key>description</key>
-			<string>description text here\nnew line\nnew line\n bla bla bla bla </string>
-			<key>coverURL</key>
-			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/Retrospective_cover.png?raw=true</string>
-			<key>fileURL</key>
-			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/PDF/Retrospective.pdf?raw=true</string>
-		</dict>
-		<dict>
-			<key>productId</key>
-			<string></string>
-			<key>date</key>
-			<date>2017-01-28T12:34:39Z</date>
-			<key>title</key>
-			<string>Fashion faces</string>
-			<key>description</key>
-			<string>description text here\nnew line\nnew line\nbla bla bla bla </string>
-			<key>coverURL</key>
-			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/ff_cover3@2x.png?raw=true</string>
-			<key>fileURL</key>
-			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/PDF/ISSUE_26__FFMAR14.pdf?raw=true</string>
-		</dict>
-		<dict>
-			<key>productId</key>
-			<string></string>
-			<key>date</key>
-			<date>2016-09-16T16:34:39Z</date>
-			<key>title</key>
-			<string>Salt</string>
-			<key>description</key>
-			<string>description text here</string>
-			<key>coverURL</key>
-			<string>https://raw.githubusercontent.com/t0rn/PublisherDemoFiles/master/images/surf_cover2%402x.png</string>
-			<key>fileURL</key>
-			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/PDF/Freesurf_Magazine.pdf?raw=true</string>
-		</dict>
-		<dict>
-			<key>productId</key>
-			<string></string>
-			<key>date</key>
-			<date>2016-09-04T15:34:39Z</date>
-			<key>title</key>
-			<string>Spunky</string>
-			<key>description</key>
-			<string>description text here\nnew line\nnew line\nbla bla bla bla </string>
-			<key>coverURL</key>
-			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/cover_spunky_issue2_large.png?raw=true</string>
-			<key>fileURL</key>
-			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/PDF/spunky_issue2.pdf?raw=true</string>
-		</dict>
-	</array>
 </dict>
 </plist>
