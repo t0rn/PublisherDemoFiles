@@ -45,9 +45,9 @@
 			<key>date</key>
 			<date>2017-05-15T12:34:39Z</date>
 			<key>title</key>
-			<string>Retrospective</string>
+			<string>Title 2</string>
 			<key>description</key>
-			<string>description text here\nnew line\nnew line\n bla bla bla bla </string>
+			<string>description publication1</string>
 			<key>coverURL</key>
 			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/Retrospective_cover.png?raw=true</string>
 			<key>fileURL</key>
